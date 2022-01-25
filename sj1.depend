@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1634992101 source:c:\users\berkay\desktop\kodlar\sj1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1634996283 source:c:\users\berkay\desktop\prolab-i\sj1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1634996283 source:c:\users\berkay\desktop\prolab proje yollamadan once\prolab_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1635003209 source:c:\users\berkay\desktop\github\1.proje\yeni klasör\prolab_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
